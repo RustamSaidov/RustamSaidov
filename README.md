@@ -23,8 +23,8 @@
 4. [Car market using Servlet API & Hibernate](https://github.com/RustamSaidov/job4j_cars)
 5. [Job market using Servlet API & Hibernate](https://github.com/RustamSaidov/job4j_dreamjob)
 6. [Car accident registration app using Spring](https://github.com/RustamSaidov/job4j_accidents)
-7.[URL Shortcut service using Spring](https://github.com/RustamSaidov/job4j_url_shortcut)
-8.[booking movie tickets using Servlet API & Hibernate](https://github.com/RustamSaidov/job4j_cinema)
+7. [URL Shortcut service using Spring](https://github.com/RustamSaidov/job4j_url_shortcut)
+8. [booking movie tickets using Servlet API & Hibernate](https://github.com/RustamSaidov/job4j_cinema)
 
 ![Rail's github stats](https://github-readme-stats.vercel.app/api?username=RustamSaidov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamSaidov&layout=compact)](https://github.com/RustamSaidov/github-readme-stats)
