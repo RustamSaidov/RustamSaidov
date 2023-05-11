@@ -26,7 +26,7 @@
 7. [URL Shortcut service using Spring](https://github.com/RustamSaidov/job4j_url_shortcut)
 8. [booking movie tickets using Servlet API & Hibernate](https://github.com/RustamSaidov/job4j_cinema)
 
-![Rail's github stats](https://github-readme-stats.vercel.app/api?username=RustamSaidov&hide=stars,prs,issues,contribs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=RustamSaidov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamSaidov&layout=compact)](https://github.com/RustamSaidov/github-readme-stats)
 
 <!--
